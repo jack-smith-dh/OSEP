@@ -1,0 +1,89 @@
+我 — wo
+你 — ni
+他 — ta
+她 — ta
+爸爸 — ba ba
+妈妈 — ma ma
+哥哥 — ge ge
+姐姐 — jie jie
+老师 — lao shi
+同学 — tong xue
+朋友 — peng you
+学校 — xue xiao
+中文 — zhong wen
+英文 — ying wen
+数学 — shu xue
+科学 — ke xue
+
+吃饭 — chi fan
+喝水 — he shui
+睡觉 — shui jiao
+跑步 — pao bu
+游泳 — you yong
+上学 — shang xue
+回家 — hui jia
+开门 — kai men
+关门 — guan men
+洗手 — xi shou
+刷牙 — shua ya
+洗澡 — xi zao
+看书 — kan shu
+写字 — xie zi
+电脑 — dian nao
+手机 — shou ji
+
+小猫 — xiao mao
+小狗 — xiao gou
+小鸟 — xiao niao
+金鱼 — jin yu
+老虎 — lao hu
+大象 — da xiang
+狮子 — shi zi
+天空 — tian kong
+太阳 — tai yang
+月亮 — yue liang
+星星 — xing xing
+白云 — bai yun
+下雨 — xia yu
+刮风 — gua feng
+花朵 — hua duo
+大树 — da shu
+
+我喜欢吃鸡饭。
+wo xi huan chi ji fan
+
+今天我去学校。
+jin tian wo qu xue xiao
+
+妈妈在家里。
+ma ma zai jia li
+
+爸爸开车上班。
+ba ba kai che shang ban
+
+我有一个好朋友。
+wo you yi ge hao peng you
+
+老师教我们中文。
+lao shi jiao wo men zhong wen
+
+今天下雨了。
+jin tian xia yu le
+
+我喜欢新加坡。
+wo xi huan xin jia po
+
+wo xi huan wan lan qiu
+我喜欢玩篮球
+
+jin tian tian qi hen hao
+今天天气很好
+
+wo he peng you yi qi chi fan
+我和朋友一起吃饭
+
+lao shi zai xue xiao jiao zhong wen
+老师在学校教中文
+
+wo xi huan yong dian nao
+我喜欢用电脑
